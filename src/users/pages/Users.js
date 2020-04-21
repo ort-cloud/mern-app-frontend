@@ -8,7 +8,7 @@ const Users = () => {
       id: "u1",
       name: "Carlack",
       image:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FJar_Jar_Binks%2FLegends&psig=AOvVaw2TpBAtNhyR3l1y5HW_ru1c&ust=1586647952024000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjfobOC3-gCFQAAAAAdAAAAABAD",
+        "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       places: 3,
     },
   ];
